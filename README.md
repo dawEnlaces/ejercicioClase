@@ -1,4 +1,7 @@
 # ejercicioClase
 
 # Escribe tu nombre y correo en una línea
-Pablo Alegría
+<<<<<<< HEAD
+Pablo Alegría Minguillón
+Ainhoa Martinez Lopez
+
